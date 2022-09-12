@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lexir-io-challenge/static/css/main.61544239.css",
+    "main.js": "/lexir-io-challenge/static/js/main.a4902c54.js",
+    "index.html": "/lexir-io-challenge/index.html",
+    "main.61544239.css.map": "/lexir-io-challenge/static/css/main.61544239.css.map",
+    "main.a4902c54.js.map": "/lexir-io-challenge/static/js/main.a4902c54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61544239.css",
+    "static/js/main.a4902c54.js"
+  ]
+}
